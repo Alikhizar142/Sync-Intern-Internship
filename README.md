@@ -1,7 +1,7 @@
 # Sync-Intern-Internship
 This intenship is mainly consist of 2 Tasks
 
-#  1. 🌿 Plant Disease Detection with AI: 🌿
+#  1. 🌿 Plant Disease Detection  🌿
 
 In the world of agriculture, early detection of plant diseases is critical for ensuring healthy crops and food security. Today, I'm excited to share a project where I've harnessed the power of artificial intelligence to create a plant disease detection system.
 
